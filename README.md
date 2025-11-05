@@ -14,8 +14,6 @@ A structured 8-week self-study plan covering core computer science foundations t
 | **Week 7** |  **Discrete Mathematics & Linear Algebra**     | Sets, logic, relations, matrices, vectors                                   | ▶️ [Neso Academy – Discrete Math](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCpWVUxg9Rr-6pNQ1R3h0)<br>📚 [MIT OCW – Linear Algebra (Gilbert Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)                    |
 | **Week 8** | **Linear Algebra (Advanced) + Review All**    | Determinants, eigenvalues, transformations, full review, mock tests         | ▶️ [3Blue1Brown – Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)<br>📘 [CS50 Final Review + Practice Problems](https://cs50.harvard.edu/x/)                                                           |
 
-Contributing
-- Feel free to submit improvements or additional resource suggestions via PRs.
 
 License
 - Public domain / CC0
